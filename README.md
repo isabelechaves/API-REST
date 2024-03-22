@@ -58,5 +58,5 @@
 
 ### Redes Sociais 🌐
 
-- **LinkedIn:** [Perfil do Exemplo](https://www.linkedin.com/in/isabele-chaves-b2a315166/) 💼
-- **Instagram:** [@exemplo_instagram](https://www.instagram.com/isabele_chaves) 📸
+- **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/isabele-chaves-b2a315166/) 💼
+- **Instagram:** [@isabele_chaves](https://www.instagram.com/isabele_chaves) 📸
